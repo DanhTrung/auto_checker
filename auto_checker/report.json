@@ -1,0 +1,38 @@
+{
+  "submissions": [
+    {
+      "file": "submissions/main.c",
+      "compile_ok": true,
+      "status": "OK",
+      "passed": 2,
+      "total": 2,
+      "tests": [
+        {
+          "name": "input2.txt",
+          "status": "PASS"
+        },
+        {
+          "name": "input1.txt",
+          "status": "PASS"
+        }
+      ]
+    },
+    {
+      "file": "submissions/tong.cpp",
+      "compile_ok": true,
+      "status": "OK",
+      "passed": 2,
+      "total": 2,
+      "tests": [
+        {
+          "name": "input2.txt",
+          "status": "PASS"
+        },
+        {
+          "name": "input1.txt",
+          "status": "PASS"
+        }
+      ]
+    }
+  ]
+}
